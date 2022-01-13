@@ -1,0 +1,1 @@
+mongodb+srv://adminDave:12300data101@cluster0.lsmu1.mongodb.net/ReactOne?retryWrites=true&w=majority
